@@ -1,5 +1,16 @@
 {
-  "react-app-setup.js": "auto/react-app-setup_a412707107c85d8774b8.js",
+  "react-app-setup.js": "auto/react-app-setup_5f9aef00229bc6ab1f19.js",
+  "rain.webp": "auto/77f98d34ee48212ae970.webp",
+  "snow.webp": "auto/5e7d4111c969ea185a67.webp",
+  "thunderstorm.webp": "auto/fe50317a75a88ab4598a.webp",
+  "clear-sky.webp": "auto/3da3db15449447683772.webp",
+  "shower-rain.webp": "auto/b81bbbc6d9d163dfb83c.webp",
+  "scattered-clouds.webp": "auto/fcfe7a7ce851dedd45ab.webp",
+  "mist.webp": "auto/1b08f7d47b2e649f814b.webp",
+  "broken-clouds.webp": "auto/392513d7c097b0e9f645.webp",
+  "few-clouds.webp": "auto/db7ab793fee58789cc29.webp",
+  "overcast-clouds.webp": "auto/ee2b652f8eb4f250b92b.webp",
+  "weather-icon.ico": "auto/weather-icon.ico",
   "index.html": "auto/index.html",
-  "react-app-setup_js.map": "auto/react-app-setup_a412707107c85d8774b8.js.map"
+  "react-app-setup_js.map": "auto/react-app-setup_5f9aef00229bc6ab1f19.js.map"
 }
